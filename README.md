@@ -1,7 +1,7 @@
 # Truepill
 Truepill Data Engineering task
 
-The task was to an input file (.csv) into a newline delimited output file (.json) using Python and Apache Beam.
+The task was to transform an input file (.csv) into a newline delimited output file (.json) using Python and Apache Beam.
 
 The data used in the task was taken from the 'https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads' site.
 
